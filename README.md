@@ -38,7 +38,7 @@ By analyzing real sales data:
 - `Region`, `State`,`city`, `Product`, `Retailer`,`Retailer_ID`,`Sales_Method`
 - `Invoice_Date`
 - `Unit_Sold`, `Total_Sales`, `Operating_Profit`, `Price_per_Unit`
-- And other relevant attributes
+
 
 **Source:** [dataset](https://www.kaggle.com/datasets/davidmashishi/adidas-shoes-sales)
 
@@ -79,6 +79,18 @@ By analyzing real sales data:
 - ✅ Profit margins were highest in **Midwest Region**, suggesting a potential for focused marketing campaigns.
 ---
 
+## 📊 Key Visualizations
+
+### 📈 Monthly Sales Trends
+![Monthly Sales](images/Monthly_Sales_Trend.png)
+
+### 🌍 Top Regions by Sales
+![Top Regions](images/Total_Sales_by_Regions.png)
+
+### 🔥 Correlation Heatmap
+![Heatmap](images/correlation_heatmap.png)
+---
+
 ## 🚀 How to Run
 1. Clone this repository or download the notebook.
 2. Install required libraries:
@@ -96,9 +108,16 @@ By analyzing real sales data:
 
 ## 📁 Repository Structure
 ```
-├── AdidasShoeSale.ipynb       # Jupyter notebook with full analysis
-├── Adidas Shoe Sales.csv      # Dataset 
-└── README.md                  # Project documentation
+AdidasShoeSale/
+│
+├── images/
+│   ├── Monthly_Sales_Trend.png
+│   ├── Total_Sales_by_regions.png
+│   ├── correlation_heatmap.png
+│
+├── AdidasShoeSale.ipynb
+├── README.md
+└── Adidas Shoe Sales.csv   
 ```
 
 ---
