@@ -71,12 +71,12 @@ By analyzing real sales data:
 
 ---
 
-### 📊 Key Insights
-✅ Highest total sales were observed in **West Region** with a total of **$2.69M** in revenue.  
-✅ **Running Shoes** and **Sneakers** contributed to over **45%** of total sales.  
-✅ Seasonal spikes in sales were seen during **Q3 (June-August)**, likely due to holiday promotions.  
-✅ Retailers like **West Gear** and **Foot Locker** were consistent top performers in revenue and profit.  
-✅ Profit margins were highest in **Midwest Region**, suggesting a potential for focused marketing campaigns.
+## 📊 Key Insights
+- ✅ Highest total sales were observed in **West Region** with a total of **$2.69M** in revenue.  
+- ✅ **Running Shoes** and **Sneakers** contributed to over **45%** of total sales.  
+- ✅ Seasonal spikes in sales were seen during **Q3 (June-August)**, likely due to holiday promotions.  
+- ✅ Retailers like **West Gear** and **Foot Locker** were consistent top performers in revenue and profit.  
+- ✅ Profit margins were highest in **Midwest Region**, suggesting a potential for focused marketing campaigns.
 ---
 
 ## 🚀 How to Run
