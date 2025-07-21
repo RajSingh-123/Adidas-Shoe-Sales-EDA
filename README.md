@@ -71,7 +71,7 @@ By analyzing real sales data:
 
 ---
 
-## 📊 Key Insights
+### 📊 Key Insights
 ✅ Highest total sales were observed in **West Region** with a total of **$2.69M** in revenue.  
 ✅ **Running Shoes** and **Sneakers** contributed to over **45%** of total sales.  
 ✅ Seasonal spikes in sales were seen during **Q3 (June-August)**, likely due to holiday promotions.  
@@ -97,7 +97,7 @@ By analyzing real sales data:
 ## 📁 Repository Structure
 ```
 ├── AdidasShoeSale.ipynb       # Jupyter notebook with full analysis
-├── Adidas Shoe Sales.csv      # Dataset (not included if dataset is large)
+├── Adidas Shoe Sales.csv      # Dataset 
 └── README.md                  # Project documentation
 ```
 
@@ -112,8 +112,7 @@ By analyzing real sales data:
 
 ## ✨ About
 **Author:** *Raj Singh*  
-Feel free to reach out for feedback or collaboration!  
-✅ **LinkedIn:** *[Your LinkedIn]*  
+Feel free to reach out for feedback or collaboration!   
 ✅ **Email:** *rajsingh3706@gmail.com*
 
 ---
